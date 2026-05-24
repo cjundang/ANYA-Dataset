@@ -3,6 +3,10 @@
 
 **ANYA (A Noteworthy Youth Annotation Dataset)** is a specialized, expert-annotated dataset designed to train machine learning models for ergonomic posture analysis among secondary school students. The framework addresses critical gaps in adolescent posture monitoring by enabling real-time, webcam-based health tracking within everyday classroom environments.
 
+![ANYA Adolescent Posture Analysis Pipeline](ANYA_Adolescent_Posture_Analysis_Pipeline.png)
+
+*Figure: Overview of the ANYA adolescent posture analysis and machine learning pipeline.*
+
 ---
 
 # Key Features of the ANYA Dataset
