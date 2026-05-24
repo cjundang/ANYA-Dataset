@@ -117,7 +117,23 @@ This represents a promising direction for future AI-assisted educational health 
 
 Read the original IEEE publication for detailed methodology, evaluation metrics, and experimental analysis.
 
-- IEEE Xplore Publication
+Jandaeng, C., Kongkwamcharoen, C., Jaiwang, T., Koad, P., & Thu, M. (2025). ANYA: A noteworthy youth annotation dataset for machine learning-based ergonomic posture analysis. *IEEE Access, 13*, 199665–199682. https://doi.org/10.1109/ACCESS.2025.3633624
+
+
+```bibtex
+@ARTICLE{11250615,
+  author={Jandaeng, Chanankorn and Kongkwamcharoen, Chonthicha and Jaiwang, Trakan and Koad, Peeravit and Thu, May},
+  journal={IEEE Access}, 
+  title={ANYA: A Noteworthy Youth Annotation Dataset for Machine Learning-Based Ergonomic Posture Analysis}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={199665-199682},
+  keywords={Ergonomics;Accuracy;Sensors;Monitoring;Computer vision;Semisupervised learning;Machine learning;Hardware;Annotations;Real-time systems;Ergonomic posture assessment;semi-supervised learning framework;webcam-based human pose recognition;adolescent health monitoring;resource-constrained educational settings;low-cost classroom technologies},
+  doi={10.1109/ACCESS.2025.3633624}}
+
+
+```
 
 ---
 
@@ -125,4 +141,4 @@ Read the original IEEE publication for detailed methodology, evaluation metrics,
 
 Access the dataset directly to develop and evaluate your own posture analysis models.
 
-- Kaggle Dataset Repository
+- Kaggle Dataset Repository (https://www.kaggle.com/datasets/chanankornjandaeng/anya-a-dataset-for-ergonomic-posture-analysis)
